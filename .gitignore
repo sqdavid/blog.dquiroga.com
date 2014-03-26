@@ -1,1 +1,6 @@
-_site
+build
+.sass-cache
+TODO.md
+.DS_Store
+.bundle
+_staging.yml

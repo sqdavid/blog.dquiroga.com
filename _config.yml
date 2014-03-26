@@ -15,6 +15,9 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://hmfaysal.github.io/hmfaysal-omega-theme
 
+source: ./src
+destination: ./build
+
 # Owner/author information
 owner:
   name:           Hossain Mohd Faysal
