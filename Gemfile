@@ -14,3 +14,4 @@ gem 'rack-contrib', '~> 1.1.0'
 gem 'rack-rewrite', '~> 1.5.0'
 
 gem 'git', '~> 1.2.6'
+gem 'kramdown'
